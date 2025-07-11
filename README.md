@@ -22,5 +22,4 @@ For me, the best way to learn is by building cool projects and exploring new ide
 ## 📬 Contact
 
 - 📩 [mehedihasan113rizvi@gmail.com](mailto:mehedihasan113rizvi@gmail.com)  
-- 🌐 [musashikensei.github.io](https://musashikensei.github.io)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mehedi-hassan-3a0768351)
