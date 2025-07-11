@@ -21,8 +21,7 @@ For me, the best way to learn is by building cool projects and exploring new ide
 
 ## 📬 Contact
 
-[![Email](https://img.shields.io/badge/mehedihasan113rizvi@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mehedihasan113rizvi@gmail.com)
-[![Website](https://img.shields.io/badge/Portfolio-222222?style=flat&logo=github&logoColor=white)](https://musashikensei.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-hassan-3a0768351)
+- **Email:** [mehedihasan113rizvi@gmail.com](mailto:mehedihasan113rizvi@gmail.com)  
+- **Website:** [musashikensei.github.io](https://musashikensei.github.io)  
+- **LinkedIn:** [Mehedi Hassan](https://www.linkedin.com/in/mehedi-hassan-3a0768351)
 
----
