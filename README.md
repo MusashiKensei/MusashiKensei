@@ -10,12 +10,12 @@ For me, the best way to learn is by building cool projects and exploring new ide
 
 ## 🛠️ Skills
 
-- 📝 **Languages:** ⚡ Python, ⚡ PHP, ⚡ JavaScript  
-- 🌐 **Web:** 💻 HTML, 💻 CSS, 🚀 Laravel, 🚀 Django  
-- 🗄️ **Database:** 🗃️ MySQL, 🧭 MVC Pattern  
-- 🤖 **Machine Learning:** 🎯 KNN, 🎯 Logistic Regression, 🎯 SVM, 🎯 Decision Tree, 🎯 Random Forest  
-- 🧠 **Deep Learning:** 🌀 BiLSTM, 🌀 BERT  
-- 🧩 **Word Embeddings:** 🧷 GloVe, 🧷 FastText  
+- 📝 **Languages:** Python, PHP, JavaScript  
+- 🌐 **Web:** HTML, CSS, Laravel, Django  
+- 🗄️ **Database:** MySQL, MVC Pattern  
+- 🤖 **Machine Learning:** KNN, Logistic Regression, SVM, Decision Tree, Random Forest  
+- 🧠 **Deep Learning:** BiLSTM, BERT   
+- 🧩 **Word Embeddings:** GloVe, FastText  
 
 ---
 
