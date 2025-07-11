@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100%" alt="Banner"/>
-
 # Hey, I’m Mehedi! 👋
 
 Just a regular human who loves building cool things with code.  
