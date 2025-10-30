@@ -10,14 +10,14 @@ For me, the best way to learn is by building cool projects and exploring new ide
 ## 🛠️ Skills
 
 - 📝 **Languages:** Python, PHP, JavaScript  
-- 🌐 **Web:** HTML, CSS, Laravel, Django  
+- 🌐 **Web:** HTML, CSS, Laravel
 - 🗄️ **Database:** MySQL  
 - 🧱 **Software Architecture:** MVC Pattern  
 - 🤖 **Machine Learning:** KNN, Logistic Regression, SVM, Decision Tree, Random Forest, Scikit-learn  
 - 🧠 **Deep Learning:** BiLSTM, BERT, PyTorch  
 - 🧩 **Word Embeddings:** GloVe, FastText  
 - 📚 **Data Handling & Analysis:** Pandas  
-- 🔍 **Information Retrieval / RAG:** Retrieval-Augmented Generation (RAG)  
+- 🔍 **Information Retrieval / RAG:** Retrieval-Augmented Generation (RAG), LangChain  
 - 🧰 **Tools:** Git, Version Control, VS Code, PyCharm
 
 ---
